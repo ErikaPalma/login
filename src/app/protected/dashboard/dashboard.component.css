@@ -1,0 +1,9 @@
+* {
+  margin: 15px;
+}
+button {
+  background-color: cornflowerblue;
+  color: white;
+  padding: 5px 15px;
+  border-radius: 5px;
+}
